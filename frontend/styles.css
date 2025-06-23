@@ -18,6 +18,7 @@ body {
     font-weight: 700;
     margin-bottom: 5px;
 }
+
 .card {
     border: none;
     border-radius: 8px;
@@ -33,6 +34,7 @@ body {
     padding: 15px;
     border-bottom: 1px solid #eee;
     transition: background-color 0.2s;
+    border-radius: 6px;
 }
 
 .drink-item:hover {
@@ -55,4 +57,11 @@ body {
 .alert-stock {
     color: #dc3545;
     font-weight: bold;
+}
+
+.details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 5px;
 }
