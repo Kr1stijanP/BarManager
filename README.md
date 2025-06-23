@@ -15,12 +15,12 @@ BarManager je web aplikacija namijenjena praćenju količine pića u zalihama. K
 git clone https://github.com/Kr1stijanP/BarManager
 cd BarManager
 ```
-1.  Pokrenite pomoću docker compose:
+2.  Pokrenite pomoću docker compose:
 ```bash
 docker-compose build
 docker-compose up
 ```
-1. Otvorite u pregledniku
+3. Otvorite u pregledniku
 ```bash
 http://localhost
 ```
