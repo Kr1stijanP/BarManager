@@ -1,6 +1,6 @@
 # ***BarManager***
 
-BarManager je web aplikacija namijenjena praćenju količine pića u zalihama. Korisnicima omogućuje unos novih pića, uređivanje specifikacija pića pri dodavanju, brisanje pića iz baze te pregled svih dostupnih pića na jednom mjestu. Aplikacija je osmišljena kako bi olakšala upravljanje zalihama i pomogla nam da nikad ne padnemo ispod minimuma koji nam je potreban.
+BarManager je web aplikacija namijenjena praćenju količine pića u zalihama. Korisnicima omogućuje unos novih pića, uređivanje dodanih pića, brisanje pića iz baze te pregled svih dostupnih pića na jednom mjestu. Aplikacija je osmišljena kako bi olakšala upravljanje zalihama i pomogla nam da nikad ne padnemo ispod minimuma koji nam je potreban.
 # ***Use Case***
 
 [Lucidchart link](https://lucid.app/lucidchart/bcb9ba87-44a3-4430-8a9f-7e34fb58ac2d/edit?viewport_loc=726%2C15%2C1745%2C778%2Czok3yUf69dyn&invitationId=inv_a3d20d66-5f26-4759-8554-3a5b9e41c7df)
