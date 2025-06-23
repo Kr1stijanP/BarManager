@@ -25,6 +25,8 @@ docker-compose up
 http://localhost
 ```
 
+### ***Napomena: Docker desktop treba već biti instaliran.***
+
 # ***Autor***
 Kristijan Poljak, 0303120233
 
