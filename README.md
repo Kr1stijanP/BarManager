@@ -29,5 +29,7 @@ http://localhost
 
 # ***Autor***
 Kristijan Poljak, 0303120233
+![image](https://github.com/user-attachments/assets/969de4b2-4fe1-4c3f-a4bf-b04400feeea9)
+
 
 
